@@ -1,0 +1,9 @@
+requests_html
+sklearn
+tensorflow==1.5
+tensorboard==1.5
+tensorflow-gpu==1.5 
+matplotlib
+numpy
+pandas
+yahoo_fin
